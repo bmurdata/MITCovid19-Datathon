@@ -27,17 +27,17 @@ Repo for data prepared and work done for the MIT Covid 19 Datathon Team E-09
 **Limits**: Uses ModZCTA, and only in #tested
 
 ## NYC Community Health Survey Data
-**Pros**: Comprehensive data on resident’s health
-**Limits**: Neighborhood data requires email, data requires cleaning, and geo-analysis ready data sets are old.
+**Pros**: Comprehensive data on resident’s health  
+**Limits**: Neighborhood data requires email, data requires cleaning, and geo-analysis ready data sets are old.  
 
 ## MTA Investor Information
-**Pros**: Contains information on MTA ridership decline
+**Pros**: Contains information on MTA ridership decline  
 **Limits**: Data in PDF, inconsistent reporting
 
 ## MTA Turnstiles Data
-**Pros**: Shows traffic by location at regular intervals
-**Limits**: Requires cleaning before use
+**Pros**: Shows traffic by location at regular intervals  
+**Limits**: Requires cleaning before use  
 
 ## NYC DOHMH Coronavirus (COVID-19) data
-**Pros**:Has #Positives, #Deaths, and geography resources
-**Limits**: Uses ModZCTA
+**Pros**:Has #Positives, #Deaths, and geography resources  
+**Limits**: Uses ModZCTA  
