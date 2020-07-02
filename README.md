@@ -22,6 +22,7 @@ Repo for data prepared and work done for the MIT Covid 19 Datathon Team E-09
 # Datasets and Limitations
 <details>
   <summary> List of Datasets</summary> 
+  
 ## NYC DOHMH Coronavirus (COVID-19) data
 **Pros**:Has #Positives, #Deaths, and geography resources  
 **Limits**: Uses ModZCTA, and only in #tested  
@@ -42,3 +43,6 @@ Repo for data prepared and work done for the MIT Covid 19 Datathon Team E-09
 **Pros**:Has #Positives, #Deaths, and geography resources  
 **Limits**: Uses ModZCTA  
 </details>
+
+# Results
+   Using several datasets, we found that mobility had gone down in terms of NYC MTA Subway and bus ridership, found a dataset of turnstile data to use, and generated a map of COVID-19 case outcomes by MODZCTA. One member found that it shows that the increase in number of turnstiles is associated with decreases of daily increased positive cases in each zip code area if there aren’t any newly confirmed cases in New York City, because there is a interaction term #turnstile * #totalcase. Further research could be made in this area.
