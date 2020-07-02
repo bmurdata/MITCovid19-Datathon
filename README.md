@@ -23,6 +23,7 @@ Repo for data prepared and work done for the MIT Covid 19 Datathon Team E-09
 
 ## NYC DOHMH Coronavirus (COVID-19) data
 **Pros**:Has #Positives, #Deaths, and geography resources
+
 **Limits**: Uses ModZCTA, and only in #tested
 
 ## NYC Community Health Survey Data
